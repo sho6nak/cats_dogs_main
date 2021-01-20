@@ -1,1 +1,1 @@
-# cats_dogs_main
+# cats-dogs
